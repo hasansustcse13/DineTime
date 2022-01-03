@@ -1,0 +1,7002 @@
+[
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 1,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 0,
+      "restaurant": 1
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 2,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 1,
+      "restaurant": 1
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 3,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 2,
+      "restaurant": 1
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 4,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 3,
+      "restaurant": 1
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 5,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 4,
+      "restaurant": 1
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 6,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 5,
+      "restaurant": 1
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 7,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 6,
+      "restaurant": 1
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 8,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 0,
+      "restaurant": 2
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 9,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 1,
+      "restaurant": 2
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 10,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 2,
+      "restaurant": 2
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 11,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 3,
+      "restaurant": 2
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 12,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 4,
+      "restaurant": 2
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 13,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 5,
+      "restaurant": 2
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 14,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 6,
+      "restaurant": 2
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 15,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 0,
+      "restaurant": 3
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 16,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 1,
+      "restaurant": 3
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 17,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 2,
+      "restaurant": 3
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 18,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 3,
+      "restaurant": 3
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 19,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 4,
+      "restaurant": 3
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 20,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 5,
+      "restaurant": 3
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 21,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 6,
+      "restaurant": 3
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 22,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 0,
+      "restaurant": 4
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 23,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 1,
+      "restaurant": 4
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 24,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 2,
+      "restaurant": 4
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 25,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 3,
+      "restaurant": 4
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 26,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 4,
+      "restaurant": 4
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 27,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 5,
+      "restaurant": 4
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 28,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 6,
+      "restaurant": 4
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 29,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 0,
+      "restaurant": 5
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 30,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 1,
+      "restaurant": 5
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 31,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 2,
+      "restaurant": 5
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 32,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 3,
+      "restaurant": 5
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 33,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 4,
+      "restaurant": 5
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 34,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 5,
+      "restaurant": 5
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 35,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 6,
+      "restaurant": 5
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 36,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 0,
+      "restaurant": 6
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 37,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 1,
+      "restaurant": 6
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 38,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 2,
+      "restaurant": 6
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 39,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 3,
+      "restaurant": 6
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 40,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 4,
+      "restaurant": 6
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 41,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 5,
+      "restaurant": 6
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 42,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 6,
+      "restaurant": 6
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 43,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 0,
+      "restaurant": 7
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 44,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 1,
+      "restaurant": 7
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 45,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 2,
+      "restaurant": 7
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 46,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 3,
+      "restaurant": 7
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 47,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 4,
+      "restaurant": 7
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 48,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 5,
+      "restaurant": 7
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 49,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 6,
+      "restaurant": 7
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 50,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 0,
+      "restaurant": 8
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 51,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 1,
+      "restaurant": 8
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 52,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 2,
+      "restaurant": 8
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 53,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 3,
+      "restaurant": 8
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 54,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 4,
+      "restaurant": 8
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 55,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 5,
+      "restaurant": 8
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 56,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 6,
+      "restaurant": 8
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 57,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 0,
+      "restaurant": 9
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 58,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 1,
+      "restaurant": 9
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 59,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 2,
+      "restaurant": 9
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 60,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 3,
+      "restaurant": 9
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 61,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 4,
+      "restaurant": 9
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 62,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 5,
+      "restaurant": 9
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 63,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 6,
+      "restaurant": 9
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 64,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 0,
+      "restaurant": 10
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 65,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 1,
+      "restaurant": 10
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 66,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 2,
+      "restaurant": 10
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 67,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 3,
+      "restaurant": 10
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 68,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 4,
+      "restaurant": 10
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 69,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 5,
+      "restaurant": 10
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 70,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 6,
+      "restaurant": 10
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 71,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 0,
+      "restaurant": 11
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 72,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 1,
+      "restaurant": 11
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 73,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 2,
+      "restaurant": 11
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 74,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 3,
+      "restaurant": 11
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 75,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 4,
+      "restaurant": 11
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 76,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 5,
+      "restaurant": 11
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 77,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 6,
+      "restaurant": 11
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 78,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 0,
+      "restaurant": 12
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 79,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 1,
+      "restaurant": 12
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 80,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 2,
+      "restaurant": 12
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 81,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 3,
+      "restaurant": 12
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 82,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 4,
+      "restaurant": 12
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 83,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 5,
+      "restaurant": 12
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 84,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 6,
+      "restaurant": 12
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 85,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 0,
+      "restaurant": 13
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 86,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 1,
+      "restaurant": 13
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 87,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 2,
+      "restaurant": 13
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 88,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 3,
+      "restaurant": 13
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 89,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 4,
+      "restaurant": 13
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 90,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 5,
+      "restaurant": 13
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 91,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 6,
+      "restaurant": 13
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 92,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 0,
+      "restaurant": 14
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 93,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 1,
+      "restaurant": 14
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 94,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 2,
+      "restaurant": 14
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 95,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 3,
+      "restaurant": 14
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 96,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 4,
+      "restaurant": 14
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 97,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 5,
+      "restaurant": 14
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 98,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 6,
+      "restaurant": 14
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 99,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 0,
+      "restaurant": 15
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 100,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 1,
+      "restaurant": 15
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 101,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 2,
+      "restaurant": 15
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 102,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 3,
+      "restaurant": 15
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 103,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 4,
+      "restaurant": 15
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 104,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 5,
+      "restaurant": 15
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 105,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 6,
+      "restaurant": 15
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 106,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 0,
+      "restaurant": 16
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 107,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 1,
+      "restaurant": 16
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 108,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 2,
+      "restaurant": 16
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 109,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 3,
+      "restaurant": 16
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 110,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 4,
+      "restaurant": 16
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 111,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 5,
+      "restaurant": 16
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 112,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 6,
+      "restaurant": 16
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 113,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 0,
+      "restaurant": 17
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 114,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 1,
+      "restaurant": 17
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 115,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 2,
+      "restaurant": 17
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 116,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 3,
+      "restaurant": 17
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 117,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 4,
+      "restaurant": 17
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 118,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 5,
+      "restaurant": 17
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 119,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 6,
+      "restaurant": 17
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 120,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 0,
+      "restaurant": 18
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 121,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 1,
+      "restaurant": 18
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 122,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 2,
+      "restaurant": 18
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 123,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 3,
+      "restaurant": 18
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 124,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 4,
+      "restaurant": 18
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 125,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 5,
+      "restaurant": 18
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 126,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 6,
+      "restaurant": 18
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 127,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 0,
+      "restaurant": 19
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 128,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 1,
+      "restaurant": 19
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 129,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 2,
+      "restaurant": 19
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 130,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 3,
+      "restaurant": 19
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 131,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 4,
+      "restaurant": 19
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 132,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 5,
+      "restaurant": 19
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 133,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 6,
+      "restaurant": 19
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 134,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 0,
+      "restaurant": 20
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 135,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 1,
+      "restaurant": 20
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 136,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 2,
+      "restaurant": 20
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 137,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 3,
+      "restaurant": 20
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 138,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 4,
+      "restaurant": 20
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 139,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 5,
+      "restaurant": 20
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 140,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 6,
+      "restaurant": 20
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 141,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 0,
+      "restaurant": 21
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 142,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 1,
+      "restaurant": 21
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 143,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 2,
+      "restaurant": 21
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 144,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 3,
+      "restaurant": 21
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 145,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 4,
+      "restaurant": 21
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 146,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 5,
+      "restaurant": 21
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 147,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 6,
+      "restaurant": 21
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 148,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 0,
+      "restaurant": 22
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 149,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 1,
+      "restaurant": 22
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 150,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 2,
+      "restaurant": 22
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 151,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 3,
+      "restaurant": 22
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 152,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 4,
+      "restaurant": 22
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 153,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 5,
+      "restaurant": 22
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 154,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 6,
+      "restaurant": 22
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 155,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 0,
+      "restaurant": 23
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 156,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 1,
+      "restaurant": 23
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 157,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 2,
+      "restaurant": 23
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 158,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 3,
+      "restaurant": 23
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 159,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 4,
+      "restaurant": 23
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 160,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 5,
+      "restaurant": 23
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 161,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 6,
+      "restaurant": 23
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 162,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 0,
+      "restaurant": 24
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 163,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 1,
+      "restaurant": 24
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 164,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 2,
+      "restaurant": 24
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 165,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 3,
+      "restaurant": 24
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 166,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 4,
+      "restaurant": 24
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 167,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 5,
+      "restaurant": 24
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 168,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 6,
+      "restaurant": 24
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 169,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 0,
+      "restaurant": 25
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 170,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 1,
+      "restaurant": 25
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 171,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 2,
+      "restaurant": 25
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 172,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 3,
+      "restaurant": 25
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 173,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 4,
+      "restaurant": 25
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 174,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 5,
+      "restaurant": 25
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 175,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 6,
+      "restaurant": 25
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 176,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 0,
+      "restaurant": 26
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 177,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 1,
+      "restaurant": 26
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 178,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 2,
+      "restaurant": 26
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 179,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 3,
+      "restaurant": 26
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 180,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 4,
+      "restaurant": 26
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 181,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 5,
+      "restaurant": 26
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 182,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 6,
+      "restaurant": 26
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 183,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 0,
+      "restaurant": 27
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 184,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 1,
+      "restaurant": 27
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 185,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 2,
+      "restaurant": 27
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 186,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 3,
+      "restaurant": 27
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 187,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 4,
+      "restaurant": 27
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 188,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 5,
+      "restaurant": 27
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 189,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 6,
+      "restaurant": 27
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 190,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 0,
+      "restaurant": 28
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 191,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 1,
+      "restaurant": 28
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 192,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 2,
+      "restaurant": 28
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 193,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 3,
+      "restaurant": 28
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 194,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 4,
+      "restaurant": 28
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 195,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 5,
+      "restaurant": 28
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 196,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 6,
+      "restaurant": 28
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 197,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 0,
+      "restaurant": 29
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 198,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 1,
+      "restaurant": 29
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 199,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 2,
+      "restaurant": 29
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 200,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 3,
+      "restaurant": 29
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 201,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 4,
+      "restaurant": 29
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 202,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 5,
+      "restaurant": 29
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 203,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 6,
+      "restaurant": 29
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 204,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 0,
+      "restaurant": 30
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 205,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 1,
+      "restaurant": 30
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 206,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 2,
+      "restaurant": 30
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 207,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 3,
+      "restaurant": 30
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 208,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 4,
+      "restaurant": 30
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 209,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 5,
+      "restaurant": 30
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 210,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 6,
+      "restaurant": 30
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 211,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 0,
+      "restaurant": 31
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 212,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 1,
+      "restaurant": 31
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 213,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 2,
+      "restaurant": 31
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 214,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 3,
+      "restaurant": 31
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 215,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 4,
+      "restaurant": 31
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 216,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 5,
+      "restaurant": 31
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 217,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 6,
+      "restaurant": 31
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 218,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 0,
+      "restaurant": 32
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 219,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 1,
+      "restaurant": 32
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 220,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 2,
+      "restaurant": 32
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 221,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 3,
+      "restaurant": 32
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 222,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 4,
+      "restaurant": 32
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 223,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 5,
+      "restaurant": 32
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 224,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 6,
+      "restaurant": 32
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 225,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 0,
+      "restaurant": 33
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 226,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 1,
+      "restaurant": 33
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 227,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 2,
+      "restaurant": 33
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 228,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 3,
+      "restaurant": 33
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 229,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 4,
+      "restaurant": 33
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 230,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 5,
+      "restaurant": 33
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 231,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 6,
+      "restaurant": 33
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 232,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 0,
+      "restaurant": 34
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 233,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 1,
+      "restaurant": 34
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 234,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 2,
+      "restaurant": 34
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 235,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 3,
+      "restaurant": 34
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 236,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 4,
+      "restaurant": 34
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 237,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 5,
+      "restaurant": 34
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 238,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 6,
+      "restaurant": 34
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 239,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 0,
+      "restaurant": 35
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 240,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 1,
+      "restaurant": 35
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 241,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 2,
+      "restaurant": 35
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 242,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 3,
+      "restaurant": 35
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 243,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 4,
+      "restaurant": 35
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 244,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 5,
+      "restaurant": 35
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 245,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 6,
+      "restaurant": 35
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 246,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 0,
+      "restaurant": 36
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 247,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 1,
+      "restaurant": 36
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 248,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 2,
+      "restaurant": 36
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 249,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 3,
+      "restaurant": 36
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 250,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 4,
+      "restaurant": 36
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 251,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 5,
+      "restaurant": 36
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 252,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 6,
+      "restaurant": 36
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 253,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 0,
+      "restaurant": 37
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 254,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 1,
+      "restaurant": 37
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 255,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 2,
+      "restaurant": 37
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 256,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 3,
+      "restaurant": 37
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 257,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 4,
+      "restaurant": 37
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 258,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 5,
+      "restaurant": 37
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 259,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 6,
+      "restaurant": 37
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 260,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 0,
+      "restaurant": 38
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 261,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 1,
+      "restaurant": 38
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 262,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 2,
+      "restaurant": 38
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 263,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 3,
+      "restaurant": 38
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 264,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 4,
+      "restaurant": 38
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 265,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 5,
+      "restaurant": 38
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 266,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 6,
+      "restaurant": 38
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 267,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 0,
+      "restaurant": 39
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 268,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 1,
+      "restaurant": 39
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 269,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 2,
+      "restaurant": 39
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 270,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 3,
+      "restaurant": 39
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 271,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 4,
+      "restaurant": 39
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 272,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 5,
+      "restaurant": 39
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 273,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 6,
+      "restaurant": 39
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 274,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 0,
+      "restaurant": 40
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 275,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 1,
+      "restaurant": 40
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 276,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 2,
+      "restaurant": 40
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 277,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 3,
+      "restaurant": 40
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 278,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 4,
+      "restaurant": 40
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 279,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 5,
+      "restaurant": 40
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 280,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 6,
+      "restaurant": 40
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 281,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 0,
+      "restaurant": 41
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 282,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 1,
+      "restaurant": 41
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 283,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 2,
+      "restaurant": 41
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 284,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 3,
+      "restaurant": 41
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 285,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 4,
+      "restaurant": 41
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 286,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 5,
+      "restaurant": 41
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 287,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 6,
+      "restaurant": 41
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 288,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 0,
+      "restaurant": 42
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 289,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 1,
+      "restaurant": 42
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 290,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 2,
+      "restaurant": 42
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 291,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 3,
+      "restaurant": 42
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 292,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 4,
+      "restaurant": 42
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 293,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 5,
+      "restaurant": 42
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 294,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 6,
+      "restaurant": 42
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 295,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 0,
+      "restaurant": 43
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 296,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 1,
+      "restaurant": 43
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 297,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 2,
+      "restaurant": 43
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 298,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 3,
+      "restaurant": 43
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 299,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 4,
+      "restaurant": 43
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 300,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 5,
+      "restaurant": 43
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 301,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 6,
+      "restaurant": 43
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 302,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 0,
+      "restaurant": 44
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 303,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 1,
+      "restaurant": 44
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 304,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 2,
+      "restaurant": 44
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 305,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 3,
+      "restaurant": 44
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 306,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 4,
+      "restaurant": 44
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 307,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 5,
+      "restaurant": 44
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 308,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 6,
+      "restaurant": 44
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 309,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 0,
+      "restaurant": 45
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 310,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 1,
+      "restaurant": 45
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 311,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 2,
+      "restaurant": 45
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 312,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 3,
+      "restaurant": 45
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 313,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 4,
+      "restaurant": 45
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 314,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 5,
+      "restaurant": 45
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 315,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 6,
+      "restaurant": 45
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 316,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 0,
+      "restaurant": 46
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 317,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 1,
+      "restaurant": 46
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 318,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 2,
+      "restaurant": 46
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 319,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 3,
+      "restaurant": 46
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 320,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 4,
+      "restaurant": 46
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 321,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 5,
+      "restaurant": 46
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 322,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 6,
+      "restaurant": 46
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 323,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 0,
+      "restaurant": 47
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 324,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 1,
+      "restaurant": 47
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 325,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 2,
+      "restaurant": 47
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 326,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 3,
+      "restaurant": 47
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 327,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 4,
+      "restaurant": 47
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 328,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 5,
+      "restaurant": 47
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 329,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 6,
+      "restaurant": 47
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 330,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 0,
+      "restaurant": 48
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 331,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 1,
+      "restaurant": 48
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 332,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 2,
+      "restaurant": 48
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 333,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 3,
+      "restaurant": 48
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 334,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 4,
+      "restaurant": 48
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 335,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 5,
+      "restaurant": 48
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 336,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 6,
+      "restaurant": 48
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 337,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 0,
+      "restaurant": 49
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 338,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 1,
+      "restaurant": 49
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 339,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 2,
+      "restaurant": 49
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 340,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 3,
+      "restaurant": 49
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 341,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 4,
+      "restaurant": 49
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 342,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 5,
+      "restaurant": 49
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 343,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 6,
+      "restaurant": 49
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 344,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 0,
+      "restaurant": 50
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 345,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 1,
+      "restaurant": 50
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 346,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 2,
+      "restaurant": 50
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 347,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 3,
+      "restaurant": 50
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 348,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 4,
+      "restaurant": 50
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 349,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 5,
+      "restaurant": 50
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 350,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 6,
+      "restaurant": 50
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 351,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 0,
+      "restaurant": 51
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 352,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 1,
+      "restaurant": 51
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 353,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 2,
+      "restaurant": 51
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 354,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 3,
+      "restaurant": 51
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 355,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 4,
+      "restaurant": 51
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 356,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 5,
+      "restaurant": 51
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 357,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 6,
+      "restaurant": 51
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 358,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 0,
+      "restaurant": 52
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 359,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 1,
+      "restaurant": 52
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 360,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 2,
+      "restaurant": 52
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 361,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 3,
+      "restaurant": 52
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 362,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 4,
+      "restaurant": 52
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 363,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 5,
+      "restaurant": 52
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 364,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 6,
+      "restaurant": 52
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 365,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 0,
+      "restaurant": 53
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 366,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 1,
+      "restaurant": 53
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 367,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 2,
+      "restaurant": 53
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 368,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 3,
+      "restaurant": 53
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 369,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 4,
+      "restaurant": 53
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 370,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 5,
+      "restaurant": 53
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 371,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 6,
+      "restaurant": 53
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 372,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 0,
+      "restaurant": 54
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 373,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 1,
+      "restaurant": 54
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 374,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 2,
+      "restaurant": 54
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 375,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 3,
+      "restaurant": 54
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 376,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 4,
+      "restaurant": 54
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 377,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 5,
+      "restaurant": 54
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 378,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 6,
+      "restaurant": 54
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 379,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 0,
+      "restaurant": 55
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 380,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 1,
+      "restaurant": 55
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 381,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 2,
+      "restaurant": 55
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 382,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 3,
+      "restaurant": 55
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 383,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 4,
+      "restaurant": 55
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 384,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 5,
+      "restaurant": 55
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 385,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 6,
+      "restaurant": 55
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 386,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 0,
+      "restaurant": 56
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 387,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 1,
+      "restaurant": 56
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 388,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 2,
+      "restaurant": 56
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 389,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 3,
+      "restaurant": 56
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 390,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 4,
+      "restaurant": 56
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 391,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 5,
+      "restaurant": 56
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 392,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 6,
+      "restaurant": 56
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 393,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 0,
+      "restaurant": 57
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 394,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 1,
+      "restaurant": 57
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 395,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 2,
+      "restaurant": 57
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 396,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 3,
+      "restaurant": 57
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 397,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 4,
+      "restaurant": 57
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 398,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 5,
+      "restaurant": 57
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 399,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 6,
+      "restaurant": 57
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 400,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 0,
+      "restaurant": 58
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 401,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 1,
+      "restaurant": 58
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 402,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 2,
+      "restaurant": 58
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 403,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 3,
+      "restaurant": 58
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 404,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 4,
+      "restaurant": 58
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 405,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 5,
+      "restaurant": 58
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 406,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 6,
+      "restaurant": 58
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 407,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 0,
+      "restaurant": 59
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 408,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 1,
+      "restaurant": 59
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 409,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 2,
+      "restaurant": 59
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 410,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 3,
+      "restaurant": 59
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 411,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 4,
+      "restaurant": 59
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 412,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 5,
+      "restaurant": 59
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 413,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 6,
+      "restaurant": 59
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 414,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 0,
+      "restaurant": 60
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 415,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 1,
+      "restaurant": 60
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 416,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 2,
+      "restaurant": 60
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 417,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 3,
+      "restaurant": 60
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 418,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 4,
+      "restaurant": 60
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 419,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 5,
+      "restaurant": 60
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 420,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 6,
+      "restaurant": 60
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 421,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 0,
+      "restaurant": 61
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 422,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 1,
+      "restaurant": 61
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 423,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 2,
+      "restaurant": 61
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 424,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 3,
+      "restaurant": 61
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 425,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 4,
+      "restaurant": 61
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 426,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 5,
+      "restaurant": 61
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 427,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 6,
+      "restaurant": 61
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 428,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 0,
+      "restaurant": 62
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 429,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 1,
+      "restaurant": 62
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 430,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 2,
+      "restaurant": 62
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 431,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 3,
+      "restaurant": 62
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 432,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 4,
+      "restaurant": 62
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 433,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 5,
+      "restaurant": 62
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 434,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 6,
+      "restaurant": 62
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 435,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 0,
+      "restaurant": 63
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 436,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 1,
+      "restaurant": 63
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 437,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 2,
+      "restaurant": 63
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 438,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 3,
+      "restaurant": 63
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 439,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 4,
+      "restaurant": 63
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 440,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 5,
+      "restaurant": 63
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 441,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 6,
+      "restaurant": 63
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 442,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 0,
+      "restaurant": 64
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 443,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 1,
+      "restaurant": 64
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 444,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 2,
+      "restaurant": 64
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 445,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 3,
+      "restaurant": 64
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 446,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 4,
+      "restaurant": 64
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 447,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 5,
+      "restaurant": 64
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 448,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 6,
+      "restaurant": 64
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 449,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 0,
+      "restaurant": 65
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 450,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 1,
+      "restaurant": 65
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 451,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 2,
+      "restaurant": 65
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 452,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 3,
+      "restaurant": 65
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 453,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 4,
+      "restaurant": 65
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 454,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 5,
+      "restaurant": 65
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 455,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 6,
+      "restaurant": 65
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 456,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 0,
+      "restaurant": 66
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 457,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 1,
+      "restaurant": 66
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 458,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 2,
+      "restaurant": 66
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 459,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 3,
+      "restaurant": 66
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 460,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 4,
+      "restaurant": 66
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 461,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 5,
+      "restaurant": 66
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 462,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 6,
+      "restaurant": 66
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 463,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 0,
+      "restaurant": 67
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 464,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 1,
+      "restaurant": 67
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 465,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 2,
+      "restaurant": 67
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 466,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 3,
+      "restaurant": 67
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 467,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 4,
+      "restaurant": 67
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 468,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 5,
+      "restaurant": 67
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 469,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 6,
+      "restaurant": 67
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 470,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 0,
+      "restaurant": 69
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 471,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 1,
+      "restaurant": 69
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 472,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 2,
+      "restaurant": 69
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 473,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 3,
+      "restaurant": 69
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 474,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 4,
+      "restaurant": 69
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 475,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 5,
+      "restaurant": 69
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 476,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 6,
+      "restaurant": 69
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 477,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 0,
+      "restaurant": 70
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 478,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 1,
+      "restaurant": 70
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 479,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 2,
+      "restaurant": 70
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 480,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 3,
+      "restaurant": 70
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 481,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 4,
+      "restaurant": 70
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 482,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 5,
+      "restaurant": 70
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 483,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 6,
+      "restaurant": 70
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 484,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 0,
+      "restaurant": 71
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 485,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 1,
+      "restaurant": 71
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 486,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 2,
+      "restaurant": 71
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 487,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 3,
+      "restaurant": 71
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 488,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 4,
+      "restaurant": 71
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 489,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 5,
+      "restaurant": 71
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 490,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 6,
+      "restaurant": 71
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 491,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 0,
+      "restaurant": 72
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 492,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 1,
+      "restaurant": 72
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 493,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 2,
+      "restaurant": 72
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 494,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 3,
+      "restaurant": 72
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 495,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 4,
+      "restaurant": 72
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 496,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 5,
+      "restaurant": 72
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 497,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 6,
+      "restaurant": 72
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 498,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 0,
+      "restaurant": 73
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 499,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 1,
+      "restaurant": 73
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 500,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 2,
+      "restaurant": 73
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 501,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 3,
+      "restaurant": 73
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 502,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 4,
+      "restaurant": 73
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 503,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 5,
+      "restaurant": 73
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 504,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 6,
+      "restaurant": 73
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 505,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 0,
+      "restaurant": 74
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 506,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 1,
+      "restaurant": 74
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 507,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 2,
+      "restaurant": 74
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 508,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 3,
+      "restaurant": 74
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 509,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 4,
+      "restaurant": 74
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 510,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 5,
+      "restaurant": 74
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 511,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 6,
+      "restaurant": 74
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 512,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 0,
+      "restaurant": 75
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 513,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 1,
+      "restaurant": 75
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 514,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 2,
+      "restaurant": 75
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 515,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 3,
+      "restaurant": 75
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 516,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 4,
+      "restaurant": 75
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 517,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 5,
+      "restaurant": 75
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 518,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 6,
+      "restaurant": 75
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 519,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 0,
+      "restaurant": 76
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 520,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 1,
+      "restaurant": 76
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 521,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 2,
+      "restaurant": 76
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 522,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 3,
+      "restaurant": 76
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 523,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 4,
+      "restaurant": 76
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 524,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 5,
+      "restaurant": 76
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 525,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 6,
+      "restaurant": 76
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 526,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 0,
+      "restaurant": 77
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 527,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 1,
+      "restaurant": 77
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 528,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 2,
+      "restaurant": 77
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 529,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 3,
+      "restaurant": 77
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 530,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 4,
+      "restaurant": 77
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 531,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 5,
+      "restaurant": 77
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 532,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 6,
+      "restaurant": 77
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 533,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 0,
+      "restaurant": 78
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 534,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 1,
+      "restaurant": 78
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 535,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 2,
+      "restaurant": 78
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 536,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 3,
+      "restaurant": 78
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 537,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 4,
+      "restaurant": 78
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 538,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 5,
+      "restaurant": 78
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 539,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 6,
+      "restaurant": 78
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 540,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 0,
+      "restaurant": 79
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 541,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 1,
+      "restaurant": 79
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 542,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 2,
+      "restaurant": 79
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 543,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 3,
+      "restaurant": 79
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 544,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 4,
+      "restaurant": 79
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 545,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 5,
+      "restaurant": 79
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 546,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 6,
+      "restaurant": 79
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 547,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 0,
+      "restaurant": 80
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 548,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 1,
+      "restaurant": 80
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 549,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 2,
+      "restaurant": 80
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 550,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 3,
+      "restaurant": 80
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 551,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 4,
+      "restaurant": 80
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 552,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 5,
+      "restaurant": 80
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 553,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 6,
+      "restaurant": 80
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 554,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 0,
+      "restaurant": 81
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 555,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 1,
+      "restaurant": 81
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 556,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 2,
+      "restaurant": 81
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 557,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 3,
+      "restaurant": 81
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 558,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 4,
+      "restaurant": 81
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 559,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 5,
+      "restaurant": 81
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 560,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 6,
+      "restaurant": 81
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 561,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 0,
+      "restaurant": 82
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 562,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 1,
+      "restaurant": 82
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 563,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 2,
+      "restaurant": 82
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 564,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 3,
+      "restaurant": 82
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 565,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 4,
+      "restaurant": 82
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 566,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 5,
+      "restaurant": 82
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 567,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 6,
+      "restaurant": 82
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 568,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 0,
+      "restaurant": 83
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 569,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 1,
+      "restaurant": 83
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 570,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 2,
+      "restaurant": 83
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 571,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 3,
+      "restaurant": 83
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 572,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 4,
+      "restaurant": 83
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 573,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 5,
+      "restaurant": 83
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 574,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 6,
+      "restaurant": 83
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 575,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 0,
+      "restaurant": 84
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 576,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 1,
+      "restaurant": 84
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 577,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 2,
+      "restaurant": 84
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 578,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 3,
+      "restaurant": 84
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 579,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 4,
+      "restaurant": 84
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 580,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 5,
+      "restaurant": 84
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 581,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 6,
+      "restaurant": 84
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 582,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 0,
+      "restaurant": 85
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 583,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 1,
+      "restaurant": 85
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 584,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 2,
+      "restaurant": 85
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 585,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 3,
+      "restaurant": 85
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 586,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 4,
+      "restaurant": 85
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 587,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 5,
+      "restaurant": 85
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 588,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 6,
+      "restaurant": 85
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 589,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 0,
+      "restaurant": 86
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 590,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 1,
+      "restaurant": 86
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 591,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 2,
+      "restaurant": 86
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 592,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 3,
+      "restaurant": 86
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 593,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 4,
+      "restaurant": 86
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 594,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 5,
+      "restaurant": 86
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 595,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 6,
+      "restaurant": 86
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 596,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 0,
+      "restaurant": 87
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 597,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 1,
+      "restaurant": 87
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 598,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 2,
+      "restaurant": 87
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 599,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 3,
+      "restaurant": 87
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 600,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 4,
+      "restaurant": 87
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 601,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 5,
+      "restaurant": 87
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 602,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 6,
+      "restaurant": 87
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 603,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 0,
+      "restaurant": 88
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 604,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 1,
+      "restaurant": 88
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 605,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 2,
+      "restaurant": 88
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 606,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 3,
+      "restaurant": 88
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 607,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 4,
+      "restaurant": 88
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 608,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 5,
+      "restaurant": 88
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 609,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 6,
+      "restaurant": 88
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 610,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 0,
+      "restaurant": 89
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 611,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 1,
+      "restaurant": 89
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 612,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 2,
+      "restaurant": 89
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 613,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 3,
+      "restaurant": 89
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 614,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 4,
+      "restaurant": 89
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 615,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 5,
+      "restaurant": 89
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 616,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 6,
+      "restaurant": 89
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 617,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 0,
+      "restaurant": 90
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 618,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 1,
+      "restaurant": 90
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 619,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 2,
+      "restaurant": 90
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 620,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 3,
+      "restaurant": 90
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 621,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 4,
+      "restaurant": 90
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 622,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 5,
+      "restaurant": 90
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 623,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 6,
+      "restaurant": 90
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 624,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 0,
+      "restaurant": 91
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 625,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 1,
+      "restaurant": 91
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 626,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 2,
+      "restaurant": 91
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 627,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 3,
+      "restaurant": 91
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 628,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 4,
+      "restaurant": 91
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 629,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 5,
+      "restaurant": 91
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 630,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 6,
+      "restaurant": 91
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 631,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 0,
+      "restaurant": 92
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 632,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 1,
+      "restaurant": 92
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 633,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 2,
+      "restaurant": 92
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 634,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 3,
+      "restaurant": 92
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 635,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 4,
+      "restaurant": 92
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 636,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 5,
+      "restaurant": 92
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 637,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 6,
+      "restaurant": 92
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 638,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 0,
+      "restaurant": 93
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 639,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 1,
+      "restaurant": 93
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 640,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 2,
+      "restaurant": 93
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 641,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 3,
+      "restaurant": 93
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 642,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 4,
+      "restaurant": 93
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 643,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 5,
+      "restaurant": 93
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 644,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 6,
+      "restaurant": 93
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 645,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 0,
+      "restaurant": 94
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 646,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 1,
+      "restaurant": 94
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 647,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 2,
+      "restaurant": 94
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 648,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 3,
+      "restaurant": 94
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 649,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 4,
+      "restaurant": 94
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 650,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 5,
+      "restaurant": 94
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 651,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 6,
+      "restaurant": 94
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 652,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 0,
+      "restaurant": 95
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 653,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 1,
+      "restaurant": 95
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 654,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 2,
+      "restaurant": 95
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 655,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 3,
+      "restaurant": 95
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 656,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 4,
+      "restaurant": 95
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 657,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 5,
+      "restaurant": 95
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 658,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 6,
+      "restaurant": 95
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 659,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 0,
+      "restaurant": 96
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 660,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 1,
+      "restaurant": 96
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 661,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 2,
+      "restaurant": 96
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 662,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 3,
+      "restaurant": 96
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 663,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 4,
+      "restaurant": 96
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 664,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 5,
+      "restaurant": 96
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 665,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 6,
+      "restaurant": 96
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 666,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 0,
+      "restaurant": 97
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 667,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 1,
+      "restaurant": 97
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 668,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 2,
+      "restaurant": 97
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 669,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 3,
+      "restaurant": 97
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 670,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 4,
+      "restaurant": 97
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 671,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 5,
+      "restaurant": 97
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 672,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 6,
+      "restaurant": 97
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 673,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 0,
+      "restaurant": 98
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 674,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 1,
+      "restaurant": 98
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 675,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 2,
+      "restaurant": 98
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 676,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 3,
+      "restaurant": 98
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 677,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 4,
+      "restaurant": 98
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 678,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 5,
+      "restaurant": 98
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 679,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 6,
+      "restaurant": 98
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 680,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 0,
+      "restaurant": 99
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 681,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 1,
+      "restaurant": 99
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 682,
+    "fields": {
+      "open_time": "08:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 2,
+      "restaurant": 99
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 683,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 3,
+      "restaurant": 99
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 684,
+    "fields": {
+      "open_time": "02:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 4,
+      "restaurant": 99
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 685,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 5,
+      "restaurant": 99
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 686,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "18:00:00",
+      "day_of_week": 6,
+      "restaurant": 99
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 687,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "23:00:00",
+      "day_of_week": 0,
+      "restaurant": 100
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 688,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 1,
+      "restaurant": 100
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 689,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 2,
+      "restaurant": 100
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 690,
+    "fields": {
+      "open_time": "07:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 3,
+      "restaurant": 100
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 691,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 4,
+      "restaurant": 100
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 692,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "19:00:00",
+      "day_of_week": 5,
+      "restaurant": 100
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 693,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "16:00:00",
+      "day_of_week": 6,
+      "restaurant": 100
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 694,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 0,
+      "restaurant": 68
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 695,
+    "fields": {
+      "open_time": "04:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 1,
+      "restaurant": 68
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 696,
+    "fields": {
+      "open_time": "01:00:00",
+      "close_time": "20:00:00",
+      "day_of_week": 2,
+      "restaurant": 68
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 697,
+    "fields": {
+      "open_time": "06:00:00",
+      "close_time": "21:00:00",
+      "day_of_week": 3,
+      "restaurant": 68
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 698,
+    "fields": {
+      "open_time": "05:00:00",
+      "close_time": "17:00:00",
+      "day_of_week": 4,
+      "restaurant": 68
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 699,
+    "fields": {
+      "open_time": "03:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 5,
+      "restaurant": 68
+    }
+  },
+  {
+    "model": "api.restaurantopenclosedinfo",
+    "pk": 700,
+    "fields": {
+      "open_time": "00:00:00",
+      "close_time": "22:00:00",
+      "day_of_week": 6,
+      "restaurant": 68
+    }
+  }
+]
