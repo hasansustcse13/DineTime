@@ -15,7 +15,7 @@ class RestaurantOpenClosedInfo(models.Model):
     open_time = models.TimeField()
     close_time = models.TimeField()
     day_of_week = models.IntegerField(choices=DayOfWeek.choices(), default=1)
-    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE, related_name='restaurants')
+    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE, related_name='open_closed_infos')
 
     def __str__(self):
         return str(self.pk)
