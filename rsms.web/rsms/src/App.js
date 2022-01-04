@@ -1,25 +1,39 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { Route, Switch, Redirect } from "react-router-dom";
+import Page from "./Components/Common/Page";
+import Restaurant from "./Components/Restaurant/Restaurant";
+import FavouriteRestaurant from "./Components/FavouriteRestaurant/FavouriteRestaurant";
+import {
+  RestaurantRoutePath,
+  FavouriteRestaurantRoutePath,
+} from "./Components/Common/Constants/RouteConstants";
 
-function App() {
+const App = (props) => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Switch>
+      <Route
+        path={`/${RestaurantRoutePath}`}
+        exact
+        render={(props) => (
+          <Page title={"All Restaurants"} {...props} component={Restaurant} />
+        )}
+      />
+
+      <Route
+        path={`/${FavouriteRestaurantRoutePath}`}
+        exact
+        render={(props) => (
+          <Page
+            title={"My Restaurant Collections"}
+            {...props}
+            component={FavouriteRestaurant}
+          />
+        )}
+      />
+
+      <Redirect exact from="/" to={`/${RestaurantRoutePath}`} />
+    </Switch>
   );
-}
+};
 
 export default App;
