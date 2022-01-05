@@ -38,7 +38,7 @@ class RestaurantInfoViewSet(viewsets.ViewSet):
             queryset = queryset.filter(restaurant__name__icontains=restaurant_name)
 
         if date_time:
-            date_time = datetime.strptime(date_time, '%d/%m/%y %H:%M:%S')
+            date_time = datetime.strptime(date_time, "%Y-%m-%dT%H:%M")
             day_of_week = date_time.weekday()
             time = date_time.time()
             queryset = queryset.filter(day_of_week=day_of_week, open_time__lte=time, close_time__gte=time)

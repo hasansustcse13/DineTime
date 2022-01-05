@@ -95,7 +95,12 @@ const Layout = (props) => {
         </div>
         <Divider />
         <List>
-          <ListItem button component={Link} to={`/${RestaurantRoutePath}`}>
+          <ListItem
+            onClick={handleDrawerClose}
+            button
+            component={Link}
+            to={`/${RestaurantRoutePath}`}
+          >
             <ListItemIcon>
               <InboxIcon />
             </ListItemIcon>
@@ -106,6 +111,7 @@ const Layout = (props) => {
 
         <List>
           <ListItem
+            onClick={handleDrawerClose}
             button
             component={Link}
             to={`/${FavouriteRestaurantRoutePath}`}
