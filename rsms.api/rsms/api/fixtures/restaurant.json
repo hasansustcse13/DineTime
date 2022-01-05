@@ -59,7 +59,7 @@
     "model": "api.restaurant",
     "pk": 9,
     "fields": {
-      "name": "Alioto's Restaurant"
+      "name": "Aliotos Restaurant"
     }
   },
   {
@@ -80,7 +80,7 @@
     "model": "api.restaurant",
     "pk": 12,
     "fields": {
-      "name": "Sam's Grill & Seafood Restaurant"
+      "name": "Sams Grill & Seafood Restaurant"
     }
   },
   {
@@ -129,7 +129,7 @@
     "model": "api.restaurant",
     "pk": 19,
     "fields": {
-      "name": "John's Grill"
+      "name": "Johns Grill"
     }
   },
   {
@@ -227,7 +227,7 @@
     "model": "api.restaurant",
     "pk": 33,
     "fields": {
-      "name": "Santorini's Mediterranean Cuisine"
+      "name": "Santorinis Mediterranean Cuisine"
     }
   },
   {
@@ -353,14 +353,14 @@
     "model": "api.restaurant",
     "pk": 51,
     "fields": {
-      "name": "Hungry’s Kitchen"
+      "name": "Hungrys Kitchen"
     }
   },
   {
     "model": "api.restaurant",
     "pk": 52,
     "fields": {
-      "name": "King Lee’s"
+      "name": "King Lees"
     }
   },
   {
@@ -535,21 +535,21 @@
     "model": "api.restaurant",
     "pk": 77,
     "fields": {
-      "name": "Fiddler’s Green"
+      "name": "Fiddlers Green"
     }
   },
   {
     "model": "api.restaurant",
     "pk": 78,
     "fields": {
-      "name": "Simon's Café"
+      "name": "Simons Cafe"
     }
   },
   {
     "model": "api.restaurant",
     "pk": 79,
     "fields": {
-      "name": "Miceli's - Hollywood"
+      "name": "Micelis - Hollywood"
     }
   },
   {
@@ -577,7 +577,7 @@
     "model": "api.restaurant",
     "pk": 83,
     "fields": {
-      "name": "Spaggi's"
+      "name": "Spaggis"
     }
   },
   {
@@ -682,7 +682,7 @@
     "model": "api.restaurant",
     "pk": 98,
     "fields": {
-      "name": "Murph's"
+      "name": "Murphs"
     }
   },
   {
