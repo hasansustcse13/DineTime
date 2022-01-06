@@ -2,10 +2,10 @@ import React from "react";
 import { Route, Switch, Redirect } from "react-router-dom";
 import Page from "./Components/Common/Page";
 import Restaurant from "./Components/Restaurant/Restaurant";
-import FavouriteRestaurant from "./Components/FavouriteRestaurant/FavouriteRestaurant";
+import FavoriteRestaurant from "./Components/FavoriteRestaurant/FavoriteRestaurant";
 import {
   RestaurantRoutePath,
-  FavouriteRestaurantRoutePath,
+  FavoriteRestaurantRoutePath,
 } from "./Components/Common/Constants/RouteConstants";
 
 const App = (props) => {
@@ -20,13 +20,13 @@ const App = (props) => {
       />
 
       <Route
-        path={`/${FavouriteRestaurantRoutePath}`}
+        path={`/${FavoriteRestaurantRoutePath}`}
         exact
         render={(props) => (
           <Page
             title={"My Restaurant Collections"}
             {...props}
-            component={FavouriteRestaurant}
+            component={FavoriteRestaurant}
           />
         )}
       />

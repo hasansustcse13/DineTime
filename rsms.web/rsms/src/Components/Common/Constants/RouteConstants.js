@@ -1,4 +1,4 @@
 export const RestaurantRoutePath = "restaurants";
-export const FavouriteRestaurantRoutePath = "collections";
+export const FavoriteRestaurantRoutePath = "collections";
 export const RestaurantRouteName = "Restaurants";
-export const FavouriteRestaurantRouteName = "My Collections";
+export const FavoriteRestaurantRouteName = "My Collections";

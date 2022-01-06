@@ -21,9 +21,9 @@ import { Link } from "react-router-dom";
 import Button from "@material-ui/core/Button";
 import {
   RestaurantRoutePath,
-  FavouriteRestaurantRoutePath,
+  FavoriteRestaurantRoutePath,
   RestaurantRouteName,
-  FavouriteRestaurantRouteName,
+  FavoriteRestaurantRouteName,
 } from "../Constants/RouteConstants";
 
 const Layout = (props) => {
@@ -114,12 +114,12 @@ const Layout = (props) => {
             onClick={handleDrawerClose}
             button
             component={Link}
-            to={`/${FavouriteRestaurantRoutePath}`}
+            to={`/${FavoriteRestaurantRoutePath}`}
           >
             <ListItemIcon>
               <InboxIcon />
             </ListItemIcon>
-            <ListItemText primary={FavouriteRestaurantRouteName} />
+            <ListItemText primary={FavoriteRestaurantRouteName} />
           </ListItem>
         </List>
         <Divider />
