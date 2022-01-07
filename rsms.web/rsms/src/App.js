@@ -7,6 +7,8 @@ import {
   RestaurantRoutePath,
   FavoriteRestaurantRoutePath,
 } from "./Components/Common/Constants/RouteConstants";
+import Login from "./Components/Account/Login/Login";
+import Register from "./Components/Account/Register/Register";
 
 const App = (props) => {
   return (
@@ -29,6 +31,14 @@ const App = (props) => {
             component={FavoriteRestaurant}
           />
         )}
+      />
+
+      <Route path="/login" exact render={(props) => <Login {...props} />} />
+
+      <Route
+        path="/register"
+        exact
+        render={(props) => <Register {...props} />}
       />
 
       <Redirect exact from="/" to={`/${RestaurantRoutePath}`} />

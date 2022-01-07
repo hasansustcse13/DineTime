@@ -39,6 +39,10 @@ const Layout = (props) => {
     setOpen(false);
   };
 
+  const loginButtonClick = () => {
+    props.history.replace("/login");
+  };
+
   return (
     <div className={classes.root}>
       <CssBaseline />
@@ -69,6 +73,7 @@ const Layout = (props) => {
               variant="outlined"
               color="secondary"
               float="right"
+              onClick={loginButtonClick}
             >
               Log-in
             </Button>
