@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import clsx from "clsx";
 import { useTheme } from "@material-ui/core/styles";
 import Drawer from "@material-ui/core/Drawer";
@@ -25,11 +25,21 @@ import {
   RestaurantRouteName,
   FavoriteRestaurantRouteName,
 } from "../Constants/RouteConstants";
+import MenuItem from "@material-ui/core/MenuItem";
+import Menu from "@material-ui/core/Menu";
+import Chip from "@material-ui/core/Chip";
+import auth from "../../../services/authService";
+import http from ".././RestAPIHandler";
+import { clearUser } from "../../../redux-tools/actions/userActions";
+import { connect } from "react-redux";
 
 const Layout = (props) => {
   const classes = useStyles();
   const theme = useTheme();
-  const [open, setOpen] = React.useState(false);
+  const [open, setOpen] = useState(false);
+  const [anchorEl, setAnchorEl] = useState(null);
+  const isMenuOpen = Boolean(anchorEl);
+  const authorized = auth.isAuthorized(props.user);
 
   const handleDrawerOpen = () => {
     setOpen(true);
@@ -41,6 +51,29 @@ const Layout = (props) => {
 
   const loginButtonClick = () => {
     props.history.replace("/login");
+  };
+
+  const handleMenuOpen = (event) => {
+    setAnchorEl(event.currentTarget);
+  };
+
+  const handleMenuClose = () => {
+    setAnchorEl(null);
+  };
+
+  const handleLogOut = () => {
+    handleMenuClose();
+
+    http.Post(
+      `authentication/logout/`,
+      null,
+      () => {
+        auth.deleteToken();
+        props.clearUser();
+        props.history.replace(`${RestaurantRoutePath}`);
+      },
+      () => {}
+    );
   };
 
   return (
@@ -68,15 +101,49 @@ const Layout = (props) => {
             </Typography>
           </div>
           <div>
-            <Button
-              type="button"
-              variant="outlined"
-              color="secondary"
-              float="right"
-              onClick={loginButtonClick}
-            >
-              Log-in
-            </Button>
+            {!authorized ? (
+              <Button
+                type="button"
+                variant="outlined"
+                color="secondary"
+                float="right"
+                onClick={loginButtonClick}
+              >
+                Log-in
+              </Button>
+            ) : (
+              <>
+                <Chip
+                  label={props.user.email}
+                  aria-controls="profile-menu"
+                  onClick={handleMenuOpen}
+                  clickable
+                />
+                <Menu
+                  id="profile-menu"
+                  anchorEl={anchorEl}
+                  anchorOrigin={{
+                    vertical: "top",
+                    horizontal: "right",
+                  }}
+                  keepMounted
+                  transformOrigin={{
+                    vertical: "top",
+                    horizontal: "right",
+                  }}
+                  open={isMenuOpen}
+                  onClose={handleMenuClose}
+                  PaperProps={{
+                    style: {
+                      width: 160,
+                      borderRadius: 15,
+                    },
+                  }}
+                >
+                  <MenuItem onClick={handleLogOut}>Log Out</MenuItem>
+                </Menu>
+              </>
+            )}
           </div>
         </Toolbar>
       </AppBar>
@@ -140,4 +207,5 @@ const Layout = (props) => {
     </div>
   );
 };
-export default Layout;
+
+export default connect(null, { clearUser })(Layout);

@@ -5,20 +5,46 @@ import Button from "@material-ui/core/Button";
 import { Link as RouterLink } from "react-router-dom";
 import Link from "@material-ui/core/Link";
 import useStyles from "../Style";
+import { connect } from "react-redux";
+import { setUser } from "../../../redux-tools/actions/userActions";
+import http from "../../Common/RestAPIHandler";
+import { FavoriteRestaurantRoutePath } from "../../Common/Constants/RouteConstants";
+import auth from "../../../services/authService";
 
 const Login = (props) => {
   const classes = useStyles();
 
   const [user, setUser] = useState({});
+  const [formError, setFormError] = useState({});
 
   const onSubmit = (e) => {
     e.preventDefault();
+
+    http.Post(
+      `authentication/login/`,
+      user,
+      (response) => {
+        auth.saveToken(response.access_token);
+        props.setUser(response);
+        props.history.replace(`/${FavoriteRestaurantRoutePath}`);
+      },
+      (status, error) => {
+        if (status === 400) {
+          setFormError(error);
+        }
+      }
+    );
   };
 
   const onInputChange = (e) => {
     setUser({
       ...user,
       [e.target.name]: e.target.value,
+    });
+
+    setFormError({
+      ...formError,
+      [e.target.name]: [],
     });
   };
 
@@ -29,11 +55,21 @@ const Login = (props) => {
           container
           spacing={0}
           alignItems="center"
-          justify="center"
+          justifyContent="center"
           className={classes.container}
         >
           <Grid item xs={12}>
             <Grid container spacing={3}>
+              {formError?.invalid_email_password?.length > 0 && (
+                <Grid
+                  item
+                  xs={12}
+                  className={`${classes.error} ${classes.textCenter}`}
+                >
+                  {formError.invalid_email_password[0]}
+                </Grid>
+              )}
+
               <Grid item xs={12}>
                 <TextField
                   id="outlined-email-input"
@@ -44,6 +80,10 @@ const Login = (props) => {
                   fullWidth
                   value={user.email || ""}
                   onChange={onInputChange}
+                  error={formError?.email?.length > 0}
+                  helperText={
+                    formError?.email?.length > 0 && formError.email[0]
+                  }
                 />
               </Grid>
               <Grid item xs={12}>
@@ -62,6 +102,10 @@ const Login = (props) => {
                   inputProps={{
                     style: { fontWeight: "bold" },
                   }}
+                  error={formError?.password?.length > 0}
+                  helperText={
+                    formError?.password?.length > 0 && formError.password[0]
+                  }
                 />
               </Grid>
 
@@ -91,4 +135,4 @@ const Login = (props) => {
   );
 };
 
-export default Login;
+export default connect(null, { setUser })(Login);

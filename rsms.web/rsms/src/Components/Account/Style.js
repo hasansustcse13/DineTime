@@ -20,5 +20,8 @@ const useStyles = makeStyles((theme) => ({
   error: {
     color: "red",
   },
+  textCenter: {
+    textAlign: "center",
+  },
 }));
 export default useStyles;

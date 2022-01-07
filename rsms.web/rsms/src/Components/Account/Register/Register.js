@@ -3,20 +3,40 @@ import Grid from "@material-ui/core/Grid";
 import TextField from "@material-ui/core/TextField";
 import Button from "@material-ui/core/Button";
 import useStyles from "../Style";
+import http from "../../Common/RestAPIHandler";
 
 const Register = (props) => {
   const classes = useStyles();
 
   const [user, setUser] = useState({});
+  const [formError, setFormError] = useState({});
 
   const onSubmit = (e) => {
     e.preventDefault();
+
+    http.Post(
+      `register/`,
+      user,
+      () => {
+        props.history.replace("/login");
+      },
+      (status, error) => {
+        if (status === 400) {
+          setFormError(error);
+        }
+      }
+    );
   };
 
   const onInputChange = (e) => {
     setUser({
       ...user,
       [e.target.name]: e.target.value,
+    });
+
+    setFormError({
+      ...formError,
+      [e.target.name]: [],
     });
   };
 
@@ -27,7 +47,7 @@ const Register = (props) => {
           container
           spacing={0}
           alignItems="center"
-          justify="center"
+          justifyContent="center"
           className={classes.container}
         >
           <Grid item xs={12}>
@@ -66,6 +86,10 @@ const Register = (props) => {
                   fullWidth
                   value={user.email || ""}
                   onChange={onInputChange}
+                  error={formError?.email?.length > 0}
+                  helperText={
+                    formError?.email?.length > 0 && formError.email[0]
+                  }
                 />
               </Grid>
               <Grid item xs={12}>
@@ -84,6 +108,10 @@ const Register = (props) => {
                   inputProps={{
                     style: { fontWeight: "bold" },
                   }}
+                  error={formError?.password?.length > 0}
+                  helperText={
+                    formError?.password?.length > 0 && formError.password[0]
+                  }
                 />
               </Grid>
 

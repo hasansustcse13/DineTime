@@ -9,16 +9,25 @@ import {
 } from "./Components/Common/Constants/RouteConstants";
 import Login from "./Components/Account/Login/Login";
 import Register from "./Components/Account/Register/Register";
+import { connect } from "react-redux";
+import Page404 from "./Components/404/Page404";
 
-const App = (props) => {
+const App = (appProps) => {
   return (
     <Switch>
       <Route
         path={`/${RestaurantRoutePath}`}
         exact
-        render={(props) => (
-          <Page title={"All Restaurants"} {...props} component={Restaurant} />
-        )}
+        render={(props) => {
+          return (
+            <Page
+              title={"All Restaurants"}
+              {...props}
+              {...appProps}
+              component={Restaurant}
+            />
+          );
+        }}
       />
 
       <Route
@@ -27,7 +36,9 @@ const App = (props) => {
         render={(props) => (
           <Page
             title={"My Restaurant Collections"}
+            authenticationRequired={true}
             {...props}
+            {...appProps}
             component={FavoriteRestaurant}
           />
         )}
@@ -42,8 +53,17 @@ const App = (props) => {
       />
 
       <Redirect exact from="/" to={`/${RestaurantRoutePath}`} />
+
+      <Route path="/404" exact render={(props) => <Page404 {...props} />} />
+      <Redirect from="*" to="/404" />
     </Switch>
   );
 };
 
-export default App;
+const mapStateToProps = (state) => {
+  return {
+    user: state.user.user,
+  };
+};
+
+export default connect(mapStateToProps, {})(App);
