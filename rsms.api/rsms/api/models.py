@@ -35,3 +35,23 @@ class RestaurantOpenClosedInfo(models.Model):
 
     def __str__(self):
         return str(self.pk)
+
+
+class Collection(models.Model):
+    name = models.CharField(max_length=128)
+    user = models.ForeignKey(User, on_delete=models.CASCADE, related_name='collections')
+    restaurants = models.ManyToManyField(Restaurant, through="RestaurantCollection")
+
+    def __str__(self):
+        return self.name
+
+
+class RestaurantCollection(models.Model):
+    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE, related_name='collections')
+    collection = models.ForeignKey(Collection, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return str(self.pk)
+
+    class Meta:
+        unique_together = ('restaurant', 'collection')
