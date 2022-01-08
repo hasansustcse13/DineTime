@@ -18,10 +18,7 @@ const useStyles = makeStyles((theme) => ({
     height: "100%",
   },
   selectedColor: {
-    backgroundColor: theme.palette.primary.main,
-    "&:focus": {
-      backgroundColor: theme.palette.primary.main,
-    },
+    backgroundColor: "#FFA500",
   },
 }));
 
