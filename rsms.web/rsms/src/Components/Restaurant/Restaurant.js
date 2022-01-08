@@ -59,7 +59,18 @@ const Restaurant = (props) => {
     );
   };
 
-  const handleInputChange = (name, value) => {
+  const debounce = (func, delay) => {
+    let timer;
+    return (...args) => {
+      const context = this;
+      if (timer) clearTimeout(timer);
+      timer = setTimeout(() => {
+        func.apply(context, args);
+      }, delay);
+    };
+  };
+
+  const handleInputChange = debounce((name, value) => {
     if (value === null || value === undefined) {
       value = "";
     }
@@ -67,7 +78,7 @@ const Restaurant = (props) => {
       ...filterValue,
       [name]: value,
     });
-  };
+  }, 500);
 
   return (
     <div className={classes.root}>
