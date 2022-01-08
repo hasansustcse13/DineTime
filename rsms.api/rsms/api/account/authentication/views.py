@@ -21,7 +21,7 @@ class AuthenticationViewSet(viewsets.ViewSet):
         auth_user = authenticate(request, email=email, password=password)
 
         if auth_user is None:
-            return Response({'invalid_email_password': "Username and Password not valid."},
+            return Response({'invalid_email_password': ["Email or Password not valid."]},
                             status=status.HTTP_400_BAD_REQUEST)
 
         login(request, auth_user)

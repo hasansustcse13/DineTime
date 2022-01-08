@@ -8,7 +8,7 @@ import useStyles from "../Style";
 import { connect } from "react-redux";
 import { setUser } from "../../../redux-tools/actions/userActions";
 import http from "../../Common/RestAPIHandler";
-import { FavoriteRestaurantRoutePath } from "../../Common/Constants/RouteConstants";
+import { RestaurantRoutePath } from "../../Common/Constants/RouteConstants";
 import auth from "../../../services/authService";
 
 const Login = (props) => {
@@ -26,7 +26,7 @@ const Login = (props) => {
       (response) => {
         auth.saveToken(response.access_token);
         props.setUser(response);
-        props.history.replace(`/${FavoriteRestaurantRoutePath}`);
+        props.history.replace(`/${RestaurantRoutePath}`);
       },
       (status, error) => {
         if (status === 400) {
