@@ -34,7 +34,7 @@ python manage.py runserver
 To run this project, install it locally using npm:
 
 ```
-cd ~/rsms.web/
+cd ~/rsms.web/rms/
 npm install
 npm start
 ```
