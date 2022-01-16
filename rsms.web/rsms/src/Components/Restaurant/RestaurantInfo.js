@@ -58,8 +58,8 @@ const RestaurantInfo = ({ info, collections, refreshCollectionsData }) => {
       http.Delete(
         `collection/restaurants/`,
         {
-          restaurant_id: info.restaurant_id,
-          collection_id: collection.id,
+          restaurant: info.restaurant_id,
+          collection: collection.id,
         },
         () => {
           refreshCollectionsData();

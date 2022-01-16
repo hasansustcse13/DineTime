@@ -5,11 +5,15 @@ from rest_framework.permissions import IsAuthenticated
 from rest_framework.response import Response
 from rest_framework_simplejwt.tokens import RefreshToken
 
-from .serializers import UserLoginSerializer, UserSerializer
+from .serializers import UserLoginSerializer, UserSerializer, CustomUserSerializer
+from drf_yasg import openapi
+from drf_yasg.utils import swagger_auto_schema
 
 
 class AuthenticationViewSet(viewsets.ViewSet):
 
+    @swagger_auto_schema(method='post', request_body=UserLoginSerializer,
+                         responses={200: openapi.Response('', CustomUserSerializer)})
     @action(methods=['post'], detail=False)
     def login(self, request):
         login_serializer = UserLoginSerializer(data=request.data)

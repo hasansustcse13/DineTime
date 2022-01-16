@@ -12,6 +12,7 @@ This is a simple user-facing webapp that allows the user to filter for restauran
 Project is created with:
 * [React.js](https://reactjs.org/)
 * [Redux](https://redux.js.org/)
+* [Material UI](https://v4.mui.com/)
 * [Django REST framework](https://www.django-rest-framework.org/)
 * [PostgreSQL](https://www.postgresql.org/)
 
@@ -29,6 +30,9 @@ python manage.py loaddata restaurant.json
 python manage.py loaddata restaurant_open_closed_info.json
 python manage.py runserver
 ```
+###### You can view the api documentation here : 
+```schema-swagger-ui:``` http://127.0.0.1:8000/ 
+```schema-redoc:``` http://127.0.0.1:8000/redoc
 
 ## Front End Setup
 To run this project, install it locally using npm:

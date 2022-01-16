@@ -43,8 +43,8 @@ const CollectionAccordion = ({
     http.Delete(
       `collection/restaurants/`,
       {
-        restaurant_id: restaurantId,
-        collection_id: collection.id,
+        restaurant: restaurantId,
+        collection: collection.id,
       },
       () => {
         refreshCollectionsData();
